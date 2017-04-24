@@ -1,6 +1,4 @@
-/* 3EA3 Sheet 2 - "Implement any of the games from yesterday's lecture."
- *
- * 1 Player Game - The Coffee Can Problem
+/* 1 Player Game - The Coffee Can Problem
  * =======================================
  *
  *
